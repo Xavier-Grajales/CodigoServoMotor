@@ -26,3 +26,6 @@ void loop()
 }
 //linea enviado desde VS code
 //Linea de Vs code
+//Cambio vs code
+//Este cambio prueba el funcionamiento de vs codenjakla
+
